@@ -51,7 +51,7 @@ TCQT 是专为 Android QQ/TIM 客户端打造的 Xposed 模块，用于拦截并
 1. 安装 LSPosed（推荐）或 Xposed；
 2. 安装本模块 APK；
 3. 在 Xposed 管理器中启用模块，并重启 QQ；
-4. Done！你已经让“撤回”成为历史了 ✅
+4. Done！你已经让“撤回”成为历史了；
 
 ---
 
