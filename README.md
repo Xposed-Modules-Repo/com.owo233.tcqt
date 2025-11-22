@@ -49,6 +49,7 @@
 |------------|-------------------------------------------------------|
 | QAuxiliary | [QAuxiliary](https://github.com/cinit/QAuxiliary)     |
 | XAutoDaily | [XAutoDaily](https://github.com/LuckyPray/XAutoDaily) |
+| TimTool    | [TimTool](https://github.com/suzhelan/TimTool)        |
 
 > **本项目的开发动力和灵感来源于 QwQ 项目，感谢 fuqiuluo ！**
 
@@ -70,7 +71,7 @@
 ### 额外说明
 
 - 不建议与其他 QQ / TIM 模块一同使用，避免功能冲突。
-- 请**始终**在LSPosed模块发布仓库或本仓库下载本模块。
+- 请**始终**在LSPosed仓库或本项目以及[CI频道](https://t.me/citcqt)下载本模块。
 
 ---
 
