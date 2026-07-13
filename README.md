@@ -3,8 +3,9 @@
 
 [![GitHub release](https://img.shields.io/github/release/Xposed-Modules-Repo/com.owo233.tcqt.svg)](https://github.com/Xposed-Modules-Repo/com.owo233.tcqt/releases/latest)
 [![main](https://github.com/callng/TCQT/actions/workflows/android_ci.yml/badge.svg)](https://github.com/callng/TCQT/actions/workflows/android_ci.yml)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/astcqt)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=CI&color=0088cc)](https://t.me/citcqt)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-0088cc?logo=telegram)](https://telegram.me/astcqt)
+[![Telegram](https://img.shields.io/badge/Telegram-CI-0088cc?logo=telegram)](https://telegram.me/citcqt)
+[![Discord](https://img.shields.io/badge/Discord-%E5%8A%A0%E5%85%A5%E7%BE%A4%E7%BB%84-5865F2?logo=discord)](https://discord.gg/PjYenv5F9s)
 
 </div>
 
@@ -18,6 +19,19 @@
 - **适配客户端**：QQ / TIM Android（NT 架构）
 - **系统版本**：Android 8.1 ~ 16
 - **框架支持**：LSPosed
+
+---
+
+## 🔧 功能控制
+
+从 **v2.7 版本** 起，模块支持通过宿主 APP 的设置页面控制功能状态：
+
+> 宿主设置页面 → **TCQT**
+
+如果宿主设置中没有看到模块入口，也可以通过以下方式打开模块设置页面：
+
+> 在聊天界面发送消息：`tcqt.qq.com`  
+> 点击该消息中的链接，即可进入模块设置界面。
 
 ---
 
